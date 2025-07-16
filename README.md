@@ -1,0 +1,2 @@
+# TheJapaneseHouseOfCouncillorsElection2025
+日本の参議院選挙2025でのポスターマップデータのアーカイブ
