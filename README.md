@@ -6,6 +6,10 @@
 
 GeoJSON ファイルに変換して利用しやすくしています。
 
+<img width="963" height="560" alt="Image" src="https://github.com/user-attachments/assets/bf5f3faf-7e0b-4f72-bfd4-4343324bb139" />
+
+
+
 ## アーカイブ
  * [2025-07-17 ヨーロッパ中央時間 2:00 前後にアーカイブ](https://github.com/furuhashilab/TheJapaneseHouseOfCouncillorsElection2025/tree/main/data/20250717)
 
