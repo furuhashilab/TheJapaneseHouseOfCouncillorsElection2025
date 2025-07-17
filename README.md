@@ -6,6 +6,9 @@
 
 GeoJSON ファイルに変換して利用しやすくしています。
 
+## アーカイブ
+ * [2025-07-17](https://github.com/furuhashilab/TheJapaneseHouseOfCouncillorsElection2025/tree/main/data/20250717)
+
 
 ## ライセンス
 チームみらいのマニフェストに「オープン」と書いてあるので、オープンデータライセンスの何かだと思うので確認します。
