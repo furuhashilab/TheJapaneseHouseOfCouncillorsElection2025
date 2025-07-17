@@ -7,7 +7,7 @@
 GeoJSON ファイルに変換して利用しやすくしています。
 
 ## アーカイブ
- * [2025-07-17](https://github.com/furuhashilab/TheJapaneseHouseOfCouncillorsElection2025/tree/main/data/20250717)
+ * [2025-07-17 ヨーロッパ中央時間 2:00 前後にアーカイブ](https://github.com/furuhashilab/TheJapaneseHouseOfCouncillorsElection2025/tree/main/data/20250717)
 
 
 ## ライセンス
