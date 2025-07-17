@@ -1,4 +1,4 @@
-# TheJapaneseHouseOfCouncillorsElection2025
+# The Japanese House of Councillors Election 2025 Poster Map
 日本の参議院選挙2025での [チームみらい・ポスターマップ](https://action.team-mir.ai/map/poster) データのアーカイブ。
 
 チームみらい非公式です。
