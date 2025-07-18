@@ -1,10 +1,6 @@
 # The Japanese House of Councillors Election 2025 Poster Map
 日本の参議院選挙2025での [チームみらい・ポスター掲示板マップ](https://action.team-mir.ai/map/poster) データのアーカイブ。
 
-## チームみらい・ポスター掲示板マップ GitHub リポジトリ
- * https://github.com/team-mirai-volunteer/poster-map
-
-
 チームみらい非公式です。
 地理空間情報の研究材料として投票日３日前の 2025-07-17 から時系列でアーカイブ中。
 
@@ -17,6 +13,10 @@ GeoJSON ファイルに変換して利用しやすくしています。
 ## アーカイブ
  * [2025-07-18 ヨーロッパ中央時間 11:00 前後にアーカイブ](https://github.com/furuhashilab/TheJapaneseHouseOfCouncillorsElection2025/tree/main/data/20250718)
  * [2025-07-17 ヨーロッパ中央時間 2:00 前後にアーカイブ](https://github.com/furuhashilab/TheJapaneseHouseOfCouncillorsElection2025/tree/main/data/20250717)
+
+
+## 参考資料
+ * チームみらい・ポスター掲示板マップ GitHub リポジトリ https://github.com/team-mirai-volunteer/poster-map
 
 
 ## ライセンス
