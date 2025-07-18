@@ -16,6 +16,8 @@ GeoJSON ファイルに変換して利用しやすくしています。
 
 
 ## ライセンス
+[AGPL-3.0 license](https://github.com/furuhashilab/TheJapaneseHouseOfCouncillorsElection2025/blob/main/LICENSE.txt)
+
 ~~チームみらいのマニフェストに「オープン」と書いてあるので、オープンデータライセンスの何かだと思うので確認します。
 とりあえず暫定的に PublicDomain/CC0 にしておきます。~~
 [GPLライセンスであることを教えていただきました](https://github.com/furuhashilab/TheJapaneseHouseOfCouncillorsElection2025/issues/2) 感謝！
