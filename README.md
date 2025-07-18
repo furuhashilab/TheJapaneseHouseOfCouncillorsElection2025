@@ -18,4 +18,6 @@ GeoJSON ファイルに変換して利用しやすくしています。
 ## ライセンス
 ~~チームみらいのマニフェストに「オープン」と書いてあるので、オープンデータライセンスの何かだと思うので確認します。
 とりあえず暫定的に PublicDomain/CC0 にしておきます。~~
-GPLライセンスであることを教えていただきました！ 感謝
+[GPLライセンスであることを教えていただきました](https://github.com/furuhashilab/TheJapaneseHouseOfCouncillorsElection2025/issues/2) 感謝！
+
+
